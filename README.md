@@ -20,4 +20,5 @@ A Deep Learning Pytorch Course I did by Free Code Camp
 
 # Resources 
 
-- Youtube Link = https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa
+- Link 1 = https://www.youtube.com/playlist?list=PLWKjhJtqVAbm5dir5TLEy2aZQMG7cHEZp
+- Link 2 = https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa
